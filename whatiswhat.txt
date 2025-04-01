@@ -1,0 +1,36 @@
+btop - resources and app usage
+cava - audio visualization
+code - vscode
+dconf - config? idk
+discord - yes
+electron - js framework for desktop apps
+epiphany - gnome browser
+evolution - gnome mail etc
+fish - terminal shell
+gnome-session - gnome shit i think
+go - language
+google-chrome - google browser
+gtk-3.0 and 4.0 - theme stuff
+htop - app like btop
+hypr - hyprland stuff and config
+jetbrains - jetbrains ide
+kitty - terminal
+lazygit - lazygit
+mimeapps.list - define default applications
+mpv - video player
+nautilus - file manager
+neofetch - system info
+notion - notion lol
+nvim - neovim
+nwg-look - gtk theme changer
+pavucontrol.ini - pavucontrol
+qimgv - video player
+rofi - app launcher
+simple-scan - scanner i guess
+veracrypt - encrypt
+vlc - video player
+wal - pywal
+waybar - status bar
+waypaper - change wallpaper
+wofi - app launcher
+yelp - gnome help
