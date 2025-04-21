@@ -2,12 +2,13 @@
 @import url("/home/kila/.cache/wal/colors-waybar.css");
 
 * {
-  font-family: "JetBrainsMono Nerd Font", Roboto, Helvetica, Arial, sans-serif;
+  font-family: "Hack Nerd Font", Roboto, Helvetica, Arial, sans-serif;
   font-size: 18px;
 }
 
 window#waybar {
-  background-color: @color0 /*transparent*/;
+  /*background-color: @color0 transparent*/
+  background-color: transparent;
   border-radius: 13px;
   transition-property: background-color;
   transition-duration: 0.5s;
@@ -29,7 +30,8 @@ button:hover {
 
 /* you can set a style on hover for any module like this */
 #pulseaudio:hover {
-  background-color: @color0 /* @surface2 */;
+  background-color: @color0;
+  /*background-color:  @surface2 ;*/
 }
 
 #workspaces button {
